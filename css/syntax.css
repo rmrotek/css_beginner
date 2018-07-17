@@ -1,26 +1,25 @@
-/*************************
-*
-* Author: Remigiusz
-* Date 17.07.2018
-*
-**************************/
-
-/* style all P tags */
+/* targeting elements / tags */
 
 p{
-    font-size: 18px;
+    font-size: 12px;
     color: red;
 }
 
-
-#header p{
-    font-size: 24px;
+a{
+    text-decoration: underline;
+    color: blue;
 }
 
+span{
+    text-transform: uppercase;
 
-
-/* style all header tags */
+}
 
 h1{
-    font-size: 44px;
+    font-size: 32px;
+}
+
+div{
+    width: 100%;
+    background-color: grey;
 }
