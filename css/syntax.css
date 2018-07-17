@@ -1,4 +1,26 @@
+/*************************
+*
+* Author: Remigiusz
+* Date 17.07.2018
+*
+**************************/
+
+/* style all P tags */
+
 p{
     font-size: 18px;
     color: red;
+}
+
+
+#header p{
+    font-size: 24px;
+}
+
+
+
+/* style all header tags */
+
+h1{
+    font-size: 44px;
 }
