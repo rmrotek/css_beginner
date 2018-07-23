@@ -3,10 +3,10 @@
 .static-width{
     width: 300px;
     height: 300px;
+    
+    background: url(https://cdn4.iconfinder.com/data/icons/gaming-and-playing/128/__Resolution-512.png) no-repeat top center;
+    
     background-color: #606060;
-    background-image: url(https://images.pexels.com/photos/370799/pexels-photo-370799.jpeg);
-    background-repeat: no-repeat;
-    background-position: center;
     background-size: 200px;
 }
 
