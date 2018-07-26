@@ -1,2 +1,2 @@
 # css_beginner
-css tutorial for beginners coursework
+html tutorial for beginners by The Net Ninja coursework
